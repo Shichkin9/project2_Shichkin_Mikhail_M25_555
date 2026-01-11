@@ -73,7 +73,7 @@ pip install dist/*.whl
 
 # Запуск приложения
 
-#### Или через Poetry
+#### Через Poetry
 poetry run database 
 
 ### Доступные команды
@@ -109,7 +109,7 @@ exit
 Таблица "users" успешно создана со столбцами: ID:int, name:str, age:int, is_active:bool
 
 Введите команду: list_tables
-- users
+users
 
 Введите команду: drop_table users
 Таблица "users" успешно удалена
