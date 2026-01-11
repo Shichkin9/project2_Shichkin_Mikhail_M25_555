@@ -180,6 +180,7 @@ def run():
 
 
         # list_tables
+        
         elif cmd == "list_tables":
             if metadata:
                 for t in metadata:
