@@ -17,8 +17,7 @@ DATA_DIR = Path("src/primitive_db/data")
 DATA_DIR.mkdir(exist_ok=True)
 
 
-
-# тут будут функции, которые будут нам помогать:) 
+# Тут будут функции, которые будут нам помогать:) 
 
 def parse_where_clause(where_str):
     """Превращает строчку вида 'age = 19' или 'name = "Mike"' в словарь {'age': 19}"""
