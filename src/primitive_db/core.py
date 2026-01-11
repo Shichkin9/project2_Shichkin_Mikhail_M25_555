@@ -60,7 +60,7 @@ def insert(metadata, table_name, values, table_data):
         record[col_name] = val
 
     # Генерация id
-    
+
     if table_data:
         max_id = max(r["ID"] for r in table_data)
         record["ID"] = max_id + 1
