@@ -72,11 +72,9 @@ pip install dist/*.whl
 
 
 # Запуск приложения
-#### После установки пакета
-project
 
 #### Или через Poetry
-poetry run project
+poetry run database 
 
 ### Доступные команды
 
