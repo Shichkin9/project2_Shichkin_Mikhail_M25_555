@@ -139,5 +139,4 @@ poetry run ruff check --fix .
 
 
 ## Запись прогона проекта
-https://disk.yandex.ru/i/eBg4utGuxQWqYw
-](https://disk.yandex.ru/i/eBg4utGuxQWqYw)
+https://disk.yandex.ru/i/Pl1COI_PnBzrQw
